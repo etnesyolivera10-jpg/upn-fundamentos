@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\upn-fundamentos\\semana4\\prueba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F4958F-A72B-4BB2-988D-C48EFA2672CC}|prueba4\\prueba4.csproj|d:\\upn-fundamentos\\semana4\\prueba1\\prueba4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F4958F-A72B-4BB2-988D-C48EFA2672CC}|prueba4\\prueba4.csproj|solutionrelative:prueba4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD4C779-639E-40EC-A042-651EBF313096}|prueba3\\prueba3.csproj|d:\\upn-fundamentos\\semana4\\prueba1\\prueba3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD4C779-639E-40EC-A042-651EBF313096}|prueba3\\prueba3.csproj|solutionrelative:prueba3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A68303-4783-407B-80D8-B7F8ED6CCFFE}|prueba2\\prueba2.csproj|d:\\upn-fundamentos\\semana4\\prueba1\\prueba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A68303-4783-407B-80D8-B7F8ED6CCFFE}|prueba2\\prueba2.csproj|solutionrelative:prueba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\upn-fundamentos\\semana4\\prueba1\\prueba4\\Program.cs",
+              "RelativeDocumentMoniker": "prueba4\\Program.cs",
+              "ToolTip": "D:\\upn-fundamentos\\semana4\\prueba1\\prueba4\\Program.cs",
+              "RelativeToolTip": "prueba4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:16:00.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\upn-fundamentos\\semana4\\prueba1\\prueba3\\Program.cs",
+              "RelativeDocumentMoniker": "prueba3\\Program.cs",
+              "ToolTip": "D:\\upn-fundamentos\\semana4\\prueba1\\prueba3\\Program.cs",
+              "RelativeToolTip": "prueba3\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:03:05.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\upn-fundamentos\\semana4\\prueba1\\prueba2\\Program.cs",
+              "RelativeDocumentMoniker": "prueba2\\Program.cs",
+              "ToolTip": "D:\\upn-fundamentos\\semana4\\prueba1\\prueba2\\Program.cs",
+              "RelativeToolTip": "prueba2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:38:06.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

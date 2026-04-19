@@ -1,0 +1,7 @@
+D:\upn-fundamentos\semana4\prueba1\prueba1\obj\Debug\prueba1.csproj.AssemblyReference.cache
+D:\upn-fundamentos\semana4\prueba1\prueba1\obj\Debug\prueba1.csproj.CoreCompileInputs.cache
+D:\upn-fundamentos\semana4\prueba1\prueba1\bin\Debug\prueba1.exe.config
+D:\upn-fundamentos\semana4\prueba1\prueba1\bin\Debug\prueba1.exe
+D:\upn-fundamentos\semana4\prueba1\prueba1\bin\Debug\prueba1.pdb
+D:\upn-fundamentos\semana4\prueba1\prueba1\obj\Debug\prueba1.exe
+D:\upn-fundamentos\semana4\prueba1\prueba1\obj\Debug\prueba1.pdb

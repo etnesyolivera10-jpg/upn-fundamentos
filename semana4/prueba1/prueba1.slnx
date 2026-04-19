@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="prueba1/prueba1.csproj" />
+  <Project Path="prueba2/prueba2.csproj" />
+  <Project Path="prueba3/prueba3.csproj" />
+  <Project Path="prueba4/prueba4.csproj" />
+</Solution>

@@ -1,0 +1,2 @@
+D:\upn-fundamentos\semana4\prueba1\prueba2\obj\Debug\prueba2.csproj.AssemblyReference.cache
+D:\upn-fundamentos\semana4\prueba1\prueba2\obj\Debug\prueba2.csproj.CoreCompileInputs.cache

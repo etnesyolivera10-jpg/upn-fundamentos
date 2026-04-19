@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prueba2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("===Menú de operciones===");
+            Console.WriteLine("1. Calcular área de un ciculo");
+            Console.WriteLine("2.Calcular área de un cuadrado");
+            Console.WriteLine("3. Calcular área de un triagulo");
+            Console.WriteLine("4. salir");
+            Console.Write("seleccione una opcion (1-4): ");
+            int opcion = int.Parse(Console.ReadLine());
+            switch (opcion)
+            { 
+          
+            case 1:
+                Console.WriteLine("area circulo =p x r2");
+                int p =int.Parse(Console.ReadLine());
+                int r =int.Parse(Console.ReadLine());
+                double area = p * Math.Pow(r, 2);
+                Console.WriteLine($"el area del circulo es {area:2f}");
+                break;
+            }
+
+
+        }   
+    }
+}

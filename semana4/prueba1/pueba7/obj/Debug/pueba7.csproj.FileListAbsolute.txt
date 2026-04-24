@@ -1,0 +1,7 @@
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\pueba7\bin\Debug\pueba7.exe.config
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\pueba7\bin\Debug\pueba7.exe
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\pueba7\bin\Debug\pueba7.pdb
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\pueba7\obj\Debug\pueba7.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\pueba7\obj\Debug\pueba7.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\pueba7\obj\Debug\pueba7.exe
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\pueba7\obj\Debug\pueba7.pdb

@@ -5,3 +5,10 @@ D:\upn-fundamentos\semana4\prueba1\prueba1\bin\Debug\prueba1.exe
 D:\upn-fundamentos\semana4\prueba1\prueba1\bin\Debug\prueba1.pdb
 D:\upn-fundamentos\semana4\prueba1\prueba1\obj\Debug\prueba1.exe
 D:\upn-fundamentos\semana4\prueba1\prueba1\obj\Debug\prueba1.pdb
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba1\bin\Debug\prueba1.exe.config
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba1\bin\Debug\prueba1.exe
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba1\bin\Debug\prueba1.pdb
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba1\obj\Debug\prueba1.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba1\obj\Debug\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba1\obj\Debug\prueba1.exe
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba1\obj\Debug\prueba1.pdb

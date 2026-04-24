@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prueba6
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Pon el promedio del estudiante");
+            int nota = int.Parse(Console.ReadLine());
+
+            if (nota <= 5) ;
+            {
+                Console.WriteLine($"su nota fue de {nota} tuvo clasificación deficiente");
+
+            }
+            else if (nota >= 6 && nota <= 10) ;
+            {
+                Console.WriteLine($"su nota fue de {nota} tuvo clasificacion regular");
+            }
+            else if (nota >= 11 && nota <= 14) ;
+            {
+                Console.WriteLine($"su nota fue de {nota} tuvo clasificacion bueno");
+            }
+            else if (nota >= 15 && nota <= 20) ;
+            {
+                Console.WriteLine($"su nota fue de {nota} tuvo clasificacion excelente");
+            }
+            else
+                Console.WriteLine($"valor invalido");
+
+        }
+    }
+}

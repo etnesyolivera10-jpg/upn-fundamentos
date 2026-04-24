@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\upn-fundamentos\\semana4\\prueba1\\",
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53A68303-4783-407B-80D8-B7F8ED6CCFFE}|prueba2\\prueba2.csproj|d:\\upn-fundamentos\\semana4\\prueba1\\prueba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DAC24A0-B0E7-42A2-9673-903EE6E4DCDB}|pueba7\\pueba7.csproj|c:\\users\\victor\\desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\pueba7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAC24A0-B0E7-42A2-9673-903EE6E4DCDB}|pueba7\\pueba7.csproj|solutionrelative:pueba7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEF220D-71F5-4ADD-B306-0621011303D6}|prueba6\\prueba6.csproj|c:\\users\\victor\\desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEF220D-71F5-4ADD-B306-0621011303D6}|prueba6\\prueba6.csproj|solutionrelative:prueba6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358492EC-EB0F-4704-85C9-8F8F26A5BCE4}|prueba.4\\prueba.4.csproj|c:\\users\\victor\\desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358492EC-EB0F-4704-85C9-8F8F26A5BCE4}|prueba.4\\prueba.4.csproj|solutionrelative:prueba.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A68303-4783-407B-80D8-B7F8ED6CCFFE}|prueba2\\prueba2.csproj|C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53A68303-4783-407B-80D8-B7F8ED6CCFFE}|prueba2\\prueba2.csproj|solutionrelative:prueba2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD4C779-639E-40EC-A042-651EBF313096}|prueba3\\prueba3.csproj|C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD4C779-639E-40EC-A042-651EBF313096}|prueba3\\prueba3.csproj|solutionrelative:prueba3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01BD6E9-E8EB-4503-AB72-3A77CC96D87D}|Prueba5\\Prueba5.csproj|c:\\users\\victor\\desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01BD6E9-E8EB-4503-AB72-3A77CC96D87D}|Prueba5\\Prueba5.csproj|solutionrelative:prueba5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba.4\\Program.cs",
+              "RelativeDocumentMoniker": "prueba.4\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba.4\\Program.cs",
+              "RelativeToolTip": "prueba.4\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvx8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:12:51.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\upn-fundamentos\\semana4\\prueba1\\prueba2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\pueba7\\Program.cs",
+              "RelativeDocumentMoniker": "pueba7\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\pueba7\\Program.cs",
+              "RelativeToolTip": "pueba7\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T20:00:10.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba6\\Program.cs",
+              "RelativeDocumentMoniker": "prueba6\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba6\\Program.cs",
+              "RelativeToolTip": "prueba6\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:43:31.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\Prueba5\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba5\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\Prueba5\\Program.cs",
+              "RelativeToolTip": "Prueba5\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:20:25.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba3\\Program.cs",
+              "RelativeDocumentMoniker": "prueba3\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba3\\Program.cs",
+              "RelativeToolTip": "prueba3\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T17:03:05.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba2\\Program.cs",
               "RelativeDocumentMoniker": "prueba2\\Program.cs",
-              "ToolTip": "D:\\upn-fundamentos\\semana4\\prueba1\\prueba2\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\git hub\\upn-fundamentos\\semana4\\prueba1\\prueba2\\Program.cs",
               "RelativeToolTip": "prueba2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T16:38:06.871Z",
               "EditorCaption": ""

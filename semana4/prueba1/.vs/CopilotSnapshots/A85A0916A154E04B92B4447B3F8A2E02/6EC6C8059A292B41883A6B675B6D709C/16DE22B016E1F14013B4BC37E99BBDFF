@@ -1,0 +1,59 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace prueba2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("===Menú de operciones===");
+            Console.WriteLine("1. Calcular área de un ciculo");
+            Console.WriteLine("2.Calcular área de un cuadrado");
+            Console.WriteLine("3. Calcular área de un triagulo");
+            Console.WriteLine("4. salir");
+            Console.Write("seleccione una opcion (1-4): ");
+            int opcion = int.Parse(Console.ReadLine());
+            switch (opcion)
+            { 
+          
+            case 1:
+                Console.WriteLine("area circulo =p x r2");
+                int p =int.Parse(Console.ReadLine());
+                int r =int.Parse(Console.ReadLine());
+                double area = p * Math.Pow(r, 2);
+                Console.WriteLine($"el area del circulo es {area.2f}");
+                break;
+            case 2:
+                 Console.WriteLine("area cuadrado = l x l");
+                int l =int.Parse(Console.ReadLine());
+                double area2 = l * l;
+                Console.WriteLine($"el area del cuadrado es {area2.2f}");
+                break;
+            case 3:
+                 Console.WriteLine("area triangulo = (b x h) / 2");
+                    int b = int.Parse(Console.ReadLine());
+                    int h = int.Parse(Console.ReadLine());
+                    double area3 = (b * h) / 2.0;
+                    Console.WriteLine($"el area del triangulo es {area3.2f}");
+                    break;
+            case 4:
+                    Console.WriteLine("saliendo del programa...");
+                    break;
+            default:
+                    Console.WriteLine("Opcion no valida. Por favor seleccione una opcion entre 1 y 4.");
+                    break;
+
+
+
+
+
+            }
+
+
+        }   
+    }
+}

@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace pueba7
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Ingrese examen parcial");
+            int parcial = int.Parse(Console.ReadLine());
+            Console.WriteLine("ingrese examen final");
+            int final = int.Parse(Console.ReadLine());
+            Console.WriteLine("ingrese practica 1 :");
+            int p1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("ingrese practica 2 :");
+            int p2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("ingrese practica 3 :");
+            int p3 = int.Parse(Console.ReadLine());
+            
+            int minPractica = Math.Min(p1, Math.Min(p2, p3));
+            int prom_practicas = (p1 + p2 + p3 - minPractica) / 2;
+
+            Console.WriteLine($"Promedio prácticas (sin la menor): {prom_practicas}");
+            Console.ReadLine();
+        }
+    }
+}

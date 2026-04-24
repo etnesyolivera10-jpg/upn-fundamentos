@@ -1,6 +1,9 @@
 <Solution>
-  <Project Path="prueba1/prueba1.csproj" />
-  <Project Path="prueba2/prueba2.csproj" />
-  <Project Path="prueba3/prueba3.csproj" />
-  <Project Path="prueba4/prueba4.csproj" />
+  <Project Path="prueba.4/prueba.4.csproj" Id="358492ec-eb0f-4704-85c9-8f8f26a5bce4" />
+  <Project Path="prueba1/prueba1.csproj" Id="bdead745-dbcc-48c8-b20b-2ce77c4555cd" />
+  <Project Path="prueba2/prueba2.csproj" Id="53a68303-4783-407b-80d8-b7f8ed6ccffe" />
+  <Project Path="prueba3/prueba3.csproj" Id="fdd4c779-639e-40ec-a042-651ebf313096" />
+  <Project Path="Prueba5/Prueba5.csproj" Id="c01bd6e9-e8eb-4503-ab72-3a77cc96d87d" />
+  <Project Path="prueba6/prueba6.csproj" Id="4fef220d-71f5-4add-b306-0621011303d6" />
+  <Project Path="pueba7/pueba7.csproj" Id="9dac24a0-b0e7-42a2-9673-903ee6e4dcdb" />
 </Solution>

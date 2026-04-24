@@ -10,7 +10,26 @@ match opcion:
         print("elegistes circulo")
         print("Area del circulo= pi* r2")
         radio=int(input("cual es el area"))
-        area= (radio*2) * 3.14
+        area= (radio*radio) * 3.14
         print(f"el resultado es {area}")
+    case 2:
+        print("eligistes cuadrado")
+        print("area del cuadrado= lado")
+        lado=int(input("cuantos metros tiene un lado"))
+        area=lado*lado
+        print(f"el area del cuadrado es {area}")
+    case 3:
+        print("elegistes triágulo")
+        print("Area del triangulo = (base x altura) / 2")
+        base=int(input("Cual es la base"))
+        altura=int(input("cual es la altura"))
+        area=(base*altura) /2
+    case 4:
+        print("saliendo del programa....")
+        exit
+    case _:
+        print("Opción invalida. Ingresa un número del 1 al 4.")
+        
+
 
         

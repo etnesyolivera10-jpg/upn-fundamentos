@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Prueba5
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Ingrese su edad");
+            int edad = int.Parse(Console.ReadLine());
+            
+            if (edad < 18)
+            {
+                int falta = 18 - edad;
+                Console.WriteLine("Acceso denegado.");
+                Console.WriteLine($"Te faltan {falta}(s) para registrarte.");
+            }
+            else
+                Console.WriteLine("Acceso permitido. Bienvenido.");
+        }
+    }
+}

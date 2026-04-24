@@ -1,0 +1,7 @@
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba4\obj\Debug\prueba4.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba4\obj\Debug\prueba4.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba4\bin\Debug\prueba4.exe.config
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba4\bin\Debug\prueba4.exe
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba4\bin\Debug\prueba4.pdb
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba4\obj\Debug\prueba4.exe
+C:\Users\Victor\Desktop\git hub\upn-fundamentos\semana4\prueba1\prueba4\obj\Debug\prueba4.pdb
